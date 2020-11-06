@@ -1,0 +1,23 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "Latihan Code Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malayx/apprestapi.git"
+  },
+  "keywords": [
+    "restapi",
+    "nodejs"
+  ],
+  "author": "fadli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malayx/apprestapi/issues"
+  },
+  "homepage": "https://github.com/malayx/apprestapi#readme"
+}
